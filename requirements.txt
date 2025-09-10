@@ -9,5 +9,6 @@ scipy>=1.11
 requests>=2.32
 pymssql>=2.2
 SQLAlchemy>=2.0
-gunicorn>=23.0
 pyodbc>=5.0
+openpyxl>=3.1
+gunicorn>=23.0
