@@ -1,1 +1,11 @@
-
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+.env
+.git
+.gitignore
+**/__pycache__/
+**/*.pyc
+data/*.xlsx
